@@ -1,0 +1,11 @@
+'none',
+'none',
+'pro-choice',
+'none,
+'pro-choice',
+'pro-life',
+'none',
+'pro-life',
+'none',
+
+
